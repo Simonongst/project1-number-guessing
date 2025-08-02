@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#start {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+}
+
+#start:hover {
+    cursor: pointer;
+}
+
+section {
+    margin: 2rem;
+    font-size: 50px;
+}
